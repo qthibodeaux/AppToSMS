@@ -1,0 +1,32 @@
+.logBox {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.logForm {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 50%;
+    max-width: 600px;
+    text-align: center;
+}
+
+.logDiv {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    background-color: var(--color-5);
+    padding: 3rem;
+    border-radius: 10%;
+}
+
+@media screen and (max-width: 600px){
+    .logForm {
+        width: 90%;
+    }
+}
