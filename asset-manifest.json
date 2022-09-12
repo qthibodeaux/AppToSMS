@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/AppToSMS/static/css/main.06c9b5da.css",
-    "main.js": "/AppToSMS/static/js/main.a2da9b6b.js",
+    "main.js": "/AppToSMS/static/js/main.44e69b68.js",
     "index.html": "/AppToSMS/index.html",
     "main.06c9b5da.css.map": "/AppToSMS/static/css/main.06c9b5da.css.map",
-    "main.a2da9b6b.js.map": "/AppToSMS/static/js/main.a2da9b6b.js.map"
+    "main.44e69b68.js.map": "/AppToSMS/static/js/main.44e69b68.js.map"
   },
   "entrypoints": [
     "static/css/main.06c9b5da.css",
-    "static/js/main.a2da9b6b.js"
+    "static/js/main.44e69b68.js"
   ]
 }
